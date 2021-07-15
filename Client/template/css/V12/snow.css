@@ -1,0 +1,118 @@
+.giveaway {
+    background-image: url('/template/imgs/UI_V12/Tools/FastBuyBackground.png');
+}
+.giveaway .image {
+    background-color: #7a58f640;
+}
+.giveaway .block-info {
+    background-color: #141529e8;
+}
+
+.case-modal .image {
+    background-image: url('https://casedrop.com/template/img/background_spinner_v2.png');
+}
+.roulette-container {
+    overflow: visible;
+}
+.roulette-container::before,
+.roulette-container::after {
+    position: absolute;
+    content: '';
+    z-index: 2;
+}
+/*.roulette-container::before {*/
+    /*background-image: url(/template/img/snow_left.png);*/
+    /*width: 100px;*/
+    /*height: 73px;*/
+    /*left: -16px;*/
+    /*background-repeat: no-repeat;*/
+    /*top: -26px;*/
+/*}*/
+/*.roulette-container::after {*/
+    /*background-image: url(/template/img/snow_right.png);*/
+    /*width: 100px;*/
+    /*height: 87px;*/
+    /*right: -25px;*/
+    /*top: -25px;*/
+/*}*/
+
+.item-case .weapon {
+    /* width: 67%; */
+}
+.item-case .case {
+    /* width: 102%; */
+}
+/* .item-case .img-holder.snow::before {
+    position: absolute;
+    content: '';
+    background-image: url(../img/case-snow-top.png);
+    width: 68%;
+    height: 58%;
+    z-index: 2;
+    left: -8px;
+    top: -2px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    transition: top 0.3s;
+}
+.item-case .img-holder.snow::after {
+    position: absolute;
+    content: '';
+    background-image: url(../img/case-snow-bottom.png);
+    width: 68%;
+    height: 39%;
+    z-index: 1;
+    left: auto;
+    top: auto;
+    bottom: 19px;
+    right: -4px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    box-shadow: none;
+    border-radius: 0;
+    transition: bottom 0.3s;
+}
+a.item-case:hover .img-holder.move::before {
+    top: -20px;
+}
+a.item-case:hover .img-holder.move::after {
+    bottom: 38px;
+} */
+/*.navbar-brand {*/
+    /*position: relative;*/
+/*}*/
+/*.navbar-brand::before {*/
+    /*content: '';*/
+    /*position: absolute;*/
+    /*left: 50%;*/
+    /*top: 50%;*/
+    /*transform: translate(-50%, -50%);*/
+    /*z-index: 1;*/
+    /*box-shadow: 0 0 52px 21px rgba(94, 77, 209, 0.5);*/
+    /*height: 0px;*/
+    /*width: 30px;*/
+/*}*/
+/*.navbar-brand img {*/
+    /*position: relative;*/
+    /*z-index: 2;*/
+/*}*/
+/* @media screen and (max-width: 575px) {
+    .item-case .img-holder.snow::before {
+        width: 56%;
+        left: 10px;
+        top: -3px;
+    }
+    .item-case .img-holder.snow::after {
+        width: 60%;
+        bottom: 14px;
+        right: 8px;
+    }
+    a.item-case:hover .img-holder.move::before {
+        top: -23px;
+    }
+    a.item-case:hover .img-holder.move::after {
+        bottom: 44px;
+    }
+} */
+

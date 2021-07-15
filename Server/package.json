@@ -1,0 +1,23 @@
+{
+  "name": "concerto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Start.js",
+  "scripts": {
+    "start": "node Start.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "cors": "^2.8.5",
+    "engine.io": "^5.1.1",
+    "engine.io-client": "^5.1.2",
+    "engine.io-parser": "^4.0.2",
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0",
+    "pg": "^8.6.0",
+    "socket.io": "^4.1.3"
+  }
+}
