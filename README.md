@@ -36,6 +36,27 @@
 </p>
 
 
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Features</h2></summary>
+  <ol>
+    <li>Open 3 boxes at the same time</li>
+    <li>Item sales system</li>
+    <li>Item advertising system</li>
+    <li>Friends system</li>
+    <li>Banners System</li>
+    <li>Frames system</li>
+    <li>Personalization++ Profile(70%)</li>
+    <li>Real-time information(Socket.IO)</li>
+    <li>Daily gifts system.</li>
+    <li>VIPS System</li>
+    <li>3 Themes available (Light, Dark and VIP)</li>
+    <li>Credit System.</li>
+    <li>Digital Card System.</li>
+    <li>and more...</li>
+  </ol>
+</details>
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
